@@ -1,0 +1,123 @@
+  ASMA - The Atari SAP Music Archive
+      established August 4, 1999
+
+Introduction
+~~~~~~~~~~~~
+Welcome to the biggest collection of
+the POKEY-based Atari XL/XE music.
+The whole collection was inspired by
+the HVSC collection. We hope you'll
+like this collection. To get in touch
+with us, see the "Contact" section of
+this document.
+
+
+Statistics
+~~~~~~~~~~
+Songs:                  8183
+- total playtime:       9d 22h 54m 8s
+
+Musicians:              276
+- Most active: Michal Szpilowski (Miker)
+               270 songs + 5 coops
+
+Song Files:             6213
+- compared to HVSC #77: 11.1 % of 55775
+- with subsongs:        618
+- in stereo:            765
+- with unknown author:  562
+- disk space occupied:  34933725 bytes
+- average file size:    5623 bytes
+- largest SAP file:     61559 bytes
+  Garfield_Part_2.sap
+- smallest SAP file:    172 bytes
+  Self_Test.sap 
+
+
+Files with subsongs:
+ 2 subsongs: 213 files
+ 3 subsongs: 126 files
+ 4 subsongs:  97 files
+ 5 subsongs:  74 files
+ 6 subsongs:  35 files
+ 7 subsongs:  12 files
+ 8 subsongs:  15 files
+ 9 subsongs:  10 files
+10 subsongs:   9 files
+11 subsongs:   6 files
+12 subsongs:   5 files
+13 subsongs:   1 file
+14 subsongs:   3 files
+15 subsongs:   4 files
+16 subsongs:   1 file
+18 subsongs:   1 file
+20 subsongs:   2 files
+21 subsongs:   1 file
+32 subsongs:   3 files
+Total: 1970 extra subsongs
+
+
+Help!
+~~~~~
+As you can see, there are lots of songs
+in the 'Unknown' directory. If you can
+provide us with any missing informatio
+about any song (who did it, where does
+it come from, when was it composed),
+please let us know immediately so that
+we can complete the information about
+the song in ASMA (and move it to the 
+ppropriate directory). We would welcome
+if you sent us also the binary file (or
+an ATR/XFD disk image) with the
+original piece of software with that
+song.
+
+
+For contributors
+~~~~~~~~~~~~~~~~
+Check the file Contribute.txt for
+more information.
+
+
+Contributors
+~~~~~~~~~~~~
+Achim Haertel
+Adam Bienias (SoTe of Slight)
+Jaymz Julian (alih)
+Jindrich Kubec
+Lyren Brown (Xuel)
+Marcin Dubicki (MacGyver)
+Marcin Prusisz (Pigula of Shpoon)
+Marcin Wojciechowski (Stryker)
+Marek Pavlik (MaPa)
+Marek Sasnal (MarOk)
+Mariusz Rozwadowski (Ramos)
+Martin Sedlak (satari)
+Martin Simecek
+Michal Garbaciak (Dracon of Taquart)
+Michal Radecki (stRing)
+Michal Szpilowski (Miker)
+Peter Dell (JAC! of WUDSN)
+Piotr Fusik (0xF of Taquart)
+Radek Sterba (Raster, RIP mate)
+Slawek Sledz (Slaves of Taquart)
+Stephan Pollock (Mr. Bacardi)
+Tamas Bene (<?> of Hard)
+Wojciech Pasiecznik (Voy)
+Zdenek Eisenhammer (PG)
+efy
+
+..and people at the HVSC team
+
+The following valuable sites were used
+for completing tune info:
+https://a8.fandal.cz/
+http://freenet-homepage.de/mrbacardi/
+http://www.atarimania.com
+
+
+Contact
+~~~~~~~
+E-mail:   asma-team@googlegroups.com
+Homepage: https://asma.atari.org
