@@ -10,6 +10,7 @@ RetroPlayer supports the following music archives.
 | ASMA | 2023-03-12 | [asma.atari.org](https://asma.atari.org) | Copyrighted material |
 | SC68 | 2003-11-18 | [sc68.atari.org](https://sc68.atari.org) | Copyrighted material |
 | MODARCHIVE | 2025-10-06 | [modland.com](https://modland.com) | Copyrighted material |
+| CGSC | 147 (2025-08-01) | [www.c64music.co.uk](https://www.c64music.co.uk) | Copyrighted material |
 
-**All music files are subject to the rights of their respective authors and the
+**All music files are subject to the rights of their respective authors and the 
 terms of use of the archives.**
